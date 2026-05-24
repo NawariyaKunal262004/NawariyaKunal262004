@@ -112,10 +112,7 @@ open_to:     Backend Internships · Open-Source · Collabs
 <!-- 📊 GitHub Stats -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NawariyaKunal262004&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawariyaKunal262004&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NawariyaKunal262004&theme=tokyonight&hide_border=true" height="170" />
@@ -125,9 +122,7 @@ open_to:     Backend Internships · Open-Source · Collabs
   <img src="https://github-profile-trophy.vercel.app/?username=NawariyaKunal262004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NawariyaKunal262004/NawariyaKunal262004/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+
 
 <br/>
 
