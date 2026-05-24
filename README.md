@@ -1,8 +1,5 @@
 <!-- ============================================= -->
 <!--  KUNAL NAWARIYA · GITHUB README PORTFOLIO     -->
-<!--  Drop this file at the root of a repo named   -->
-<!--  "NawariyaKunal262004" to make it your        -->
-<!--  GitHub profile README.                       -->
 <!-- ============================================= -->
 
 <!-- ⛅ Animated Header Banner -->
@@ -43,11 +40,25 @@ mindset:     "Ship clean code. Scale calm systems."
 open_to:     Backend Internships · Open-Source · Collabs
 ```
 
-- 🧠  I love designing **scalable, maintainable, production-style** backends.
-- 🛠️  Currently building APIs with **ASP.NET Core + EF Core + MediatR**.
-- 🐳  Deploying with **Docker** on **Linux (RHEL 9)** via **Jenkins** pipelines.
-- 📚  Sharpening **DSA in C#** and exploring **System Design** deeply.
-- ✉️  Reach me on **LinkedIn** — always up for a good engineering chat.
+- 🧠 I love designing **scalable, maintainable, production-style** backend systems.
+- 🛠️ Currently building APIs with **ASP.NET Core + EF Core + MediatR**.
+- 🐳 Deploying applications with **Docker** on **Linux (RHEL 9)** using **Jenkins CI/CD**.
+- 📚 Sharpening **DSA in C#** and exploring **System Design** concepts deeply.
+- 🤝 Open to **Backend Engineering Internships**, collaborations, and open-source work.
+
+<br/>
+
+<!-- 💼 Experience -->
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> Experience
+
+### 💼 Software Developer Intern — Disamaksh IT Pvt. Ltd.
+📅 **Feb 2026 – Present**
+
+- Developing backend systems using **ASP.NET Core** and **.NET Web API** with the **CQRS** design pattern.
+- Designing and maintaining scalable **RESTful APIs**.
+- Working with **SQL Server** for database integration and query optimization.
+- Collaborating with team members on real-world software projects.
+- Debugging, testing, and optimizing backend application performance.
 
 <br/>
 
@@ -90,7 +101,6 @@ open_to:     Backend Internships · Open-Source · Collabs
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-<!-- 🌈 Animated icon strip -->
 <a href="#">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,docker,linux,git,github,bash,vscode,postman,js&perline=12" />
 </a>
@@ -115,7 +125,6 @@ open_to:     Backend Internships · Open-Source · Collabs
   <img src="https://github-profile-trophy.vercel.app/?username=NawariyaKunal262004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<!-- 🐍 Contribution snake (requires the snake action workflow) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/NawariyaKunal262004/NawariyaKunal262004/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
@@ -130,9 +139,9 @@ open_to:     Backend Internships · Open-Source · Collabs
 <td width="50%" valign="top">
 
 ### 💊 Medicine Billing & Inventory
-**Production-style backend** for pharmacies — built with Clean Architecture, CQRS, and Repository pattern.
+Production-style backend for pharmacies built using **Clean Architecture**, **CQRS**, and **Repository Pattern**.
 
-🔹 JWT Auth + Role-Based Access  
+🔹 JWT Authentication + Role-Based Authorization  
 🔹 Inventory + Billing + Patient modules  
 🔹 EF Core · MediatR · SQL Server  
 
@@ -142,9 +151,9 @@ open_to:     Backend Internships · Open-Source · Collabs
 <td width="50%" valign="top">
 
 ### 🎓 Online Examination System
-**Team-built** ASP.NET Core platform for schools to conduct secure online exams.
+Team-built ASP.NET Core platform for schools to conduct secure online examinations.
 
-🔹 Student auth workflows  
+🔹 Student authentication workflows  
 🔹 Exam + Result processing modules  
 🔹 Secure submission handling  
 
@@ -152,27 +161,28 @@ open_to:     Backend Internships · Open-Source · Collabs
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🔁 End-to-End CI/CD Pipeline
-**DevOps project** — Dockerized Flask app deployed via a full Jenkins pipeline on RHEL 9.
+Dockerized Flask application deployed through a complete Jenkins CI/CD workflow on RHEL 9.
 
-🔹 Automated build → test → deploy  
-🔹 GitHub-triggered pipelines  
-🔹 Containerized release flow  
+🔹 Automated build → test → deploy pipeline  
+🔹 GitHub-triggered deployments  
+🔹 Containerized release workflow  
 
 `Flask` `Docker` `Jenkins` `RHEL 9`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Currently Building
-Exploring **System Design** patterns and deepening **DSA in C#**.
+### 🌱 Currently Learning
+Deep diving into **System Design** and strengthening **DSA with C#**.
 
-🔹 Caching · Queues · Rate limiting  
-🔹 Distributed system fundamentals  
-🔹 Cleaner, faster, calmer code  
+🔹 Caching · Queues · Rate Limiting  
+🔹 Distributed System fundamentals  
+🔹 Writing cleaner and scalable backend code  
 
 `System Design` `DSA` `C#`
 
@@ -184,6 +194,7 @@ Exploring **System Design** patterns and deepening **DSA in C#**.
 
 <!-- 💡 Quote -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
@@ -197,14 +208,17 @@ Exploring **System Design** patterns and deepening **DSA in C#**.
   <a href="https://www.linkedin.com/in/kunal-nawaria-35591629a/">
     <img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/NawariyaKunal262004">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<!-- 🎀 Footer wave -->
+<!-- 🎀 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" />
 </p>
 
-<p align="center"><sub>⭐ If you like what I build, drop a star on a repo — it genuinely makes my day.</sub></p>
+<p align="center">
+  <sub>⭐ If you like what I build, drop a star on a repo — it genuinely makes my day.</sub>
+</p>
