@@ -118,9 +118,6 @@ open_to:     Backend Internships · Open-Source · Collabs
   <img src="https://streak-stats.demolab.com?user=NawariyaKunal262004&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NawariyaKunal262004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
 
 
 
