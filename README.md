@@ -272,37 +272,6 @@ I enjoy working across the development lifecycle and have hands-on experience wi
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NawariyaKunal262004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawariyaKunal262004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NawariyaKunal262004&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NawariyaKunal262004&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -713,8 +682,3 @@ It motivates me to keep learning and building.
 
 </p>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&color=00D9FF&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+useful+together.;Happy+Coding!+🚀"/>
-
-</p>
