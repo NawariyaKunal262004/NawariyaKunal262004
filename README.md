@@ -1,13 +1,15 @@
 <!-- ======================================================= -->
+
 <!--              KUNAL NAWARIYA | GITHUB PROFILE            -->
+
 <!-- ======================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Kunal%20Nawariya&fontSize=60&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20.NET%20Experience&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Kunal%20Nawariya&fontSize=60&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20ASP.NET%20Core&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&color=00D9FF&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Professional+Experience+with+ASP.NET+Core+%26+.NET;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&color=00D9FF&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;ASP.NET+Core+%7C+SQL+Server;Building+REST+APIs+and+Web+Applications;Always+Learning+and+Building+🚀"/>
 </p>
 
 ---
@@ -15,26 +17,19 @@
 <p align="center">
 
 <a href="https://github.com/NawariyaKunal262004">
-<img src="https://img.shields.io/github/followers/NawariyaKunal262004?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
-
+  <img src="https://img.shields.io/github/followers/NawariyaKunal262004?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
 </a>
 
 <a href="https://github.com/NawariyaKunal262004">
-
-<img src="https://komarev.com/ghpvc/?username=NawariyaKunal262004&style=for-the-badge&color=0ea5e9"/>
-
+  <img src="https://komarev.com/ghpvc/?username=NawariyaKunal262004&style=for-the-badge&color=0ea5e9"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kunal-nawaria-35591629a/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kunalnawariya26@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -43,11 +38,11 @@
 
 # 👋 Hi, I'm Kunal Nawariya
 
-### Full Stack Developer | MERN Stack | .NET Experience
+### Backend Developer | Node.js | Express.js | ASP.NET Core
 
-I am a passionate **Full Stack Developer** focused on building scalable, user-friendly web applications using the **MERN Stack** while leveraging my professional experience in **ASP.NET Core** backend development.
+Computer Science student and aspiring Backend Developer with hands-on experience building web applications and REST APIs using **Node.js, Express.js, ASP.NET Core, React.js, MongoDB, and SQL Server**.
 
-I enjoy transforming ideas into real-world applications by writing clean, maintainable code and continuously improving my problem-solving skills through **Data Structures & Algorithms**, **System Design**, and modern software engineering practices.
+I have experience working with backend services, database integration, authentication, API development, frontend-backend integration, and Git-based workflows.
 
 ---
 
@@ -58,26 +53,32 @@ Name:          Kunal Nawariya
 
 Location:      Jaipur, Rajasthan, India
 
-Role:          Full Stack Developer
+Role:          Backend Developer
 
-Primary Stack: MERN
-
-Professional Experience:
-    - ASP.NET Core
+Primary Focus:
+    - Node.js
+    - Express.js
     - REST APIs
-    - SQL Server
 
-Currently Learning:
-    - Agentic AI
-    - TypeScript
-    - Next.js
-    - Advanced MERN
-    - Docker
+Also Experienced With:
+    - ASP.NET Core
+    - .NET Web API
+    - SQL Server
+    - Entity Framework Core
+    - React.js
+    - MongoDB
+
+Architecture & Concepts:
+    - Clean Architecture
+    - CQRS
+    - MediatR
+    - MVC
+    - JWT Authentication
 
 Open To:
-    - Full Stack Developer Internship
-    - Software Developer Roles
-    - Open Source Collaboration
+    - Backend Developer Roles
+    - Full-Stack Developer Roles
+    - Entry-Level Software Developer Opportunities
 
 Motto:
     "Keep Learning. Keep Building."
@@ -87,61 +88,86 @@ Motto:
 
 # 💡 What I'm Working On
 
-💻 Building Full Stack Applications using the **MERN Stack**
+💻 Building web applications and backend services
 
-🚀 Creating scalable REST APIs with **Node.js & Express.js**
+🚀 Creating REST APIs using **Node.js & Express.js**
 
-⚛️ Developing responsive and modern UIs using **React.js**
+⚙️ Working with **ASP.NET Core and .NET Web API**
 
-🗄️ Designing efficient databases using **MongoDB**
+🗄️ Managing application data using **MongoDB and SQL Server**
 
-📚 Strengthening **Data Structures & Algorithms**
+🔐 Implementing authentication and backend functionality
 
-🧠 Exploring  **Agentic AI**, **System Design**, **Docker**, and backend architecture
+🏗️ Applying concepts such as **Clean Architecture, CQRS, and MediatR**
 
-☁️ Learning deployment and cloud fundamentals
+🧪 Testing and debugging APIs using **Swagger and Postman**
 
 ---
 
 # 💼 Professional Experience
 
+## MERN Stack Developer Intern
+
+### FatCamel
+
+📅 **Jun 2026 – Aug 2026**
+
+Worked on full-stack web application features using the MERN stack.
+
+### Responsibilities
+
+✔️ Worked on application features using **MongoDB, Express.js, React.js, and Node.js**
+
+✔️ Built and integrated REST APIs using **Node.js and Express.js**
+
+✔️ Assisted with frontend and backend integration
+
+✔️ Handled API requests and application data
+
+✔️ Collaborated with the development team using **Git and GitHub**
+
+---
+
 ## Software Developer Intern
 
 ### Digisamaksh IT Pvt. Ltd.
 
-📅 **Feb 2026 – Present**
+📅 **Feb 2026 – Jul 2026**
 
-Working as a Software Developer Intern, contributing to enterprise application development and backend services.
+📍 Remote, Noida
+
+Worked on backend services and REST APIs for web applications.
 
 ### Responsibilities
 
-✔️ Developed scalable backend services and REST APIs.
+✔️ Worked with **ASP.NET Core** to develop backend services and REST APIs
 
-✔️ Collaborated with frontend developers for API integration.
+✔️ Implemented business logic and database operations
 
-✔️ Designed business logic and optimized backend performance.
+✔️ Worked with **SQL Server and Entity Framework Core**
 
-✔️ Worked with SQL databases and API testing.
+✔️ Collaborated with frontend developers for API integration
 
-✔️ Debugged and resolved application issues.
+✔️ Tested and debugged APIs using **Swagger and Postman**
 
-✔️ Used Git & GitHub for version control.
-
-✔️ Followed software engineering best practices throughout the development lifecycle.
+✔️ Used **Git and GitHub** for version control
 
 ---
 
 # 🎯 Career Objective
 
-My goal is to become a highly skilled **Full Stack Software Engineer** capable of building scalable products from frontend to backend.
+My goal is to grow as a **Backend Developer** and build reliable web applications and APIs.
 
-While my current focus is mastering the **MERN Stack**, I also value my professional experience with **ASP.NET Core**, which has strengthened my understanding of enterprise backend development, REST APIs, database design, and software architecture.
+I am particularly interested in backend development using **Node.js, Express.js, and ASP.NET Core**, while strengthening my understanding of databases, API design, authentication, and software architecture.
 
-I believe that being technology-agnostic and continuously learning enables me to build better software and adapt to diverse development environments.
+I enjoy working across the development lifecycle and have hands-on experience with both **MERN-based applications** and **ASP.NET Core backend development**.
 
 ---
+
 <!-- ======================================================= -->
+
 <!--                    TECH STACK                           -->
+
 <!-- ======================================================= -->
 
 # 🛠 Tech Stack
@@ -150,7 +176,7 @@ I believe that being technology-agnostic and continuously learning enables me to
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,cs,html,css&theme=dark"/>
 
 </p>
 
@@ -160,7 +186,7 @@ I believe that being technology-agnostic and continuously learning enables me to
 
 ## ⚛️ Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
 
 </p>
 
@@ -172,15 +198,17 @@ I believe that being technology-agnostic and continuously learning enables me to
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark"/>
 
-</p>
+<br/><br/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge"/>
 
 </p>
 
@@ -190,7 +218,11 @@ I believe that being technology-agnostic and continuously learning enables me to
 
 ## 🗄 Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </p>
 
@@ -200,7 +232,11 @@ I believe that being technology-agnostic and continuously learning enables me to
 
 ## ☁️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,bash,npm&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,windows&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 
 </p>
 
@@ -208,27 +244,29 @@ I believe that being technology-agnostic and continuously learning enables me to
 
 # 💼 Technologies I've Worked With
 
-| Primary MERN Stack | Professional .NET Experience |
-|--------------------|------------------------------|
-| React.js | ASP.NET Core |
-| Node.js | .NET Web API |
-| Express.js | C# |
-| MongoDB | SQL Server |
-| JavaScript (ES6+) | Entity Framework |
-| REST APIs | Swagger |
-| JWT Authentication | ASP.NET Identity |
-| Git & GitHub | Clean Architecture |
+| Node.js & MERN     | ASP.NET Core & .NET   |
+| ------------------ | --------------------- |
+| Node.js            | ASP.NET Core          |
+| Express.js         | .NET Web API          |
+| MongoDB            | C#                    |
+| React.js           | SQL Server            |
+| JavaScript (ES6+)  | Entity Framework Core |
+| REST APIs          | Clean Architecture    |
+| JWT Authentication | CQRS                  |
+| Git & GitHub       | MediatR               |
 
 ---
 
-# 📚 Currently Learning
+# 📚 Areas of Focus
 
 <div align="center">
 
-| 🚀 Frontend | ⚙ Backend | ☁ DevOps |
-|------------|-----------|-----------|
-| Agentic AI | Next.js | Advanced Node.js | Docker |
-| TypeScript | Authentication | Socket.io |
+| ⚙ Backend          | 🗄 Databases          | 🏗 Architecture    |
+| ------------------ | --------------------- | ------------------ |
+| Node.js            | MongoDB               | Clean Architecture |
+| Express.js         | SQL Server            | CQRS               |
+| REST APIs          | Entity Framework Core | MediatR            |
+| JWT Authentication | Database Integration  | MVC                |
 
 </div>
 
@@ -281,33 +319,42 @@ I believe that being technology-agnostic and continuously learning enables me to
 ```javascript
 const kunal = {
 
-role: "Full Stack Developer",
+    role: "Backend Developer",
 
-primaryStack: [
-"React",
-"Node.js",
-"Express.js",
-"MongoDB"
-],
+    primaryStack: [
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
 
-backendExperience: [
-"ASP.NET Core",
-".NET Web API",
-"C#"
-],
+    backendExperience: [
+        "ASP.NET Core",
+        ".NET Web API",
+        "SQL Server",
+        "Entity Framework Core"
+    ],
 
-currentlyLearning: [
-"Agentic AI",
-"Next.js",
-"TypeScript",
-"Docker"
-],
+    concepts: [
+        "REST APIs",
+        "JWT Authentication",
+        "Clean Architecture",
+        "CQRS",
+        "MediatR"
+    ],
 
-lifeMotto() {
+    tools: [
+        "Git",
+        "GitHub",
+        "Swagger",
+        "Postman",
+        "Docker"
+    ],
 
-return "Write clean code. Solve real problems. Never stop learning.";
+    lifeMotto() {
 
-}
+        return "Keep learning. Keep building. Keep improving.";
+
+    }
 
 };
 
@@ -317,12 +364,14 @@ console.log(kunal.lifeMotto());
 ---
 
 <!-- ======================================================= -->
+
 <!--                  FEATURED PROJECTS                      -->
+
 <!-- ======================================================= -->
 
 # 🚀 Featured Projects
 
-> Here are some of the projects that showcase my skills in **Full Stack Development**, **Backend Engineering**, and **Software Architecture**.
+> Here are some of the projects that showcase my skills in **Backend Development, REST API Development, Database Integration, and Software Architecture**.
 
 ---
 
@@ -332,191 +381,75 @@ console.log(kunal.lifeMotto());
 
 <td width="50%" valign="top">
 
-## 🏥 Medical Billing & Inventory Management
+## 🏥 Medical Billing & Inventory Management System
 
-A production-style healthcare management system developed using enterprise backend architecture.
+A backend application for managing medicine, billing, and inventory operations.
 
 ### 🚀 Highlights
 
-- 💊 Medicine Inventory Management
-- 🧾 Billing & Invoice Generation
-- 📦 Stock Management
-- ⚠️ Low Stock Alerts
-- 📅 Expiry Validation
-- 📈 Reports & Analytics
-- 🔐 Authentication & Authorization
-- 🌐 REST APIs
+* 💊 Medicine Management
+* 🧾 Billing Management
+* 📦 Inventory Management
+* 🗄️ Database Integration
+* 🌐 REST APIs
+* 🏗️ Clean Architecture
+* ⚙️ CQRS
+* 🔄 MediatR
 
 ### 🛠 Tech Stack
 
 `ASP.NET Core`
 
-`REST API`
+`SQL Server`
 
 `Entity Framework Core`
-
-`SQL Server`
 
 `CQRS`
 
 `MediatR`
 
-`Swagger`
+`REST APIs`
 
-`Postman`
+### What I Worked On
 
----
-
-⭐ Enterprise Project
+* Developed backend APIs for billing, medicine, and inventory modules.
+* Implemented features for managing medicine stock, billing records, and inventory data.
+* Used Entity Framework Core and SQL Server for database operations.
+* Applied Clean Architecture, CQRS, and MediatR to organize application features and business logic.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 Online Examination System
+## 🔗 URL Shortener
 
-A team-based web application developed for conducting secure online examinations.
+A backend application that converts long URLs into short and shareable links.
 
 ### 🚀 Highlights
 
-- 👨‍🎓 Student Authentication
-- 📝 Online Exams
-- 📊 Result Processing
-- 📚 Question Management
-- 👨‍🏫 Admin Panel
-- 📄 API Documentation
-- 🧪 Backend Testing
+* 🔗 URL Shortening
+* ↪️ URL Redirection
+* 🌐 REST APIs
+* 🗄️ MongoDB Database
+* ✔️ Input Validation
+* ⚠️ Error Handling
 
 ### 🛠 Tech Stack
 
-`ASP.NET Core`
-
-`REST API`
-
-`SQL Server`
-
-`Git`
-
-`Swagger`
-
----
-
-⭐ Team Project
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚧 MERN Projects (Currently Building)
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 💬 Real-Time Chat Application
-
-### Features
-
-- 🔐 JWT Authentication
-- 💬 Real-time Messaging
-- 🟢 Online Users
-- 🔔 Notifications
-- 📱 Responsive UI
-
-### Tech
-
-`React`
-
 `Node.js`
 
-`Express`
+`Express.js`
 
 `MongoDB`
 
-`Socket.io`
+`REST APIs`
 
-</td>
+### What I Worked On
 
-<td width="50%" valign="top">
-
-## 🛒 E-Commerce Platform
-
-### Features
-
-- 🛍 Product Catalog
-- ❤️ Wishlist
-- 🛒 Shopping Cart
-- 💳 Payment Integration
-- 📦 Order Tracking
-- 👤 Admin Dashboard
-
-### Tech
-
-`React`
-
-`Node`
-
-`MongoDB`
-
-`Express`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📋 Task Management System
-
-### Features
-
-- ✅ CRUD Operations
-- 📅 Deadlines
-- 📂 Categories
-- 🔍 Search & Filter
-- 📊 Dashboard
-
-### Tech
-
-`React`
-
-`Node`
-
-`Express`
-
-`MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💰 Expense Tracker
-
-### Features
-
-- 💸 Income & Expenses
-- 📊 Charts
-- 📅 Monthly Reports
-- 🔐 Authentication
-- 📈 Dashboard
-
-### Tech
-
-`React`
-
-`Node`
-
-`MongoDB`
-
-`Chart.js`
+* Built REST APIs to create shortened URLs.
+* Developed URL redirection functionality.
+* Used MongoDB to store URL mappings and manage application data.
+* Added basic input validation and error handling for API requests.
 
 </td>
 
@@ -529,45 +462,43 @@ A team-based web application developed for conducting secure online examinations
 # 📌 Current Focus
 
 ```text
-🚀 Mastering the MERN Stack
+🚀 Backend Development
 
-⚛️ React Patterns
+🟢 Node.js & Express.js
 
-🟢 Node.js Backend Development
+⚙️ ASP.NET Core
 
-🍃 MongoDB Performance
+🌐 REST API Development
 
-🔐 Authentication & Authorization
+🗄️ MongoDB & SQL Server
 
-📦 Building Production Ready REST APIs
+🔐 JWT Authentication
 
-📚 Agentic AI
+🏗️ Clean Architecture
 
-🧠 Data Structures & Algorithms
+⚡ CQRS & MediatR
+
+🧪 API Testing & Debugging
+
+📦 Git & GitHub
 
 🐳 Docker
-
-☁ Cloud Deployment
 ```
 
 ---
 
-# 🗺 Learning Roadmap
+# 🗺 Development Journey
 
 ```text
-Completed ✅
+Hands-On Experience ✅
 
-✔ HTML
+✔ JavaScript (ES6+)
 
-✔ CSS
-
-✔ JavaScript
-
-✔ React Fundamentals
-
-✔ Node.js Basics
+✔ Node.js
 
 ✔ Express.js
+
+✔ React.js
 
 ✔ MongoDB
 
@@ -575,42 +506,43 @@ Completed ✅
 
 ✔ Git & GitHub
 
-✔ SQL
-
 ✔ ASP.NET Core
+
+✔ .NET Web API
 
 ✔ C#
 
-──────────────────────────
+✔ SQL Server
 
-Learning 🚀
-
-🔸 Agentic AI
-
-🔸 TypeScript
-
-🔸 Socket.io
-
-🔸 Redis
-
-🔸 Docker
+✔ Entity Framework Core
 
 ──────────────────────────
 
-Future 🎯
+Architecture & Concepts 🏗
 
-⭐ Microservices
+✔ MVC
 
-⭐ Kubernetes
+✔ Clean Architecture
 
-⭐ GraphQL
+✔ CQRS
 
-⭐ Event-Driven Architecture
+✔ MediatR
 
-⭐ DevOps
+✔ JWT Authentication
 
-⭐ Cloud Native Development
+──────────────────────────
 
+Tools 🔧
+
+✔ Swagger
+
+✔ Postman
+
+✔ Docker
+
+✔ Linux
+
+✔ Windows
 ```
 
 ---
@@ -620,27 +552,11 @@ Future 🎯
 <p align="center">
 
 <a href="https://github.com/NawariyaKunal262004">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-
+<a href="https://www.linkedin.com/in/kunal-nawaria-35591629a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -649,18 +565,19 @@ Future 🎯
 
 # ⚡ Fun Facts
 
-- 💡 I enjoy solving real-world development problems.
-- 🚀 I love building scalable backend systems.
-- 🌱 I believe consistency beats intensity.
-- 📚 Every project teaches something new.
-- 🤝 Always open to collaboration and learning.
-- ☕ Coffee + Code = Productive Day
+* 💡 I enjoy building backend systems and solving development problems.
+* 🚀 I like working with REST APIs and web applications.
+* 🗄️ I have experience working with both MongoDB and SQL Server.
+* 🏗️ I am interested in clean and maintainable software architecture.
+* 📚 Every project is an opportunity to learn something new.
+* 🤝 Always open to learning and collaboration.
 
 ---
 
-
 <!-- ======================================================= -->
+
 <!--                  CONNECT WITH ME                        -->
+
 <!-- ======================================================= -->
 
 # 🤝 Let's Connect
@@ -668,15 +585,15 @@ Future 🎯
 <p align="center">
 
 <a href="mailto:kunalnawariya26@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kunal-nawaria-35591629a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/NawariyaKunal262004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -687,12 +604,12 @@ Future 🎯
 
 <div align="center">
 
-| ✅ Looking For | 🚀 Interested In |
-|:--------------:|:----------------:|
-| Full Stack Developer | Open Source |
-| MERN Stack Developer | Backend Development |
-| Software Engineer | Web Applications |
-| Internship / Full-Time | Scalable Systems |
+|     ✅ Looking For    |   🚀 Interested In   |
+| :------------------: | :------------------: |
+|   Backend Developer  | REST API Development |
+|  Software Developer  |    Backend Systems   |
+| Full-Stack Developer |   Web Applications   |
+|   Entry-Level Roles  | Software Engineering |
 
 </div>
 
@@ -707,33 +624,38 @@ class Developer {
 
         this.name = "Kunal Nawariya";
 
-        this.role = "Full Stack Developer";
+        this.role = "Backend Developer";
 
-        this.primaryStack = [
-            "React",
-            "Node",
-            "Express",
-            "MongoDB"
+        this.primaryTechnologies = [
+            "Node.js",
+            "Express.js",
+            "ASP.NET Core"
         ];
 
-        this.enterpriseExperience = [
-            ".NET",
-            "ASP.NET Core",
+        this.databaseExperience = [
+            "MongoDB",
             "SQL Server"
         ];
 
-        this.currentFocus = [
-            "System Design",
-            "DSA",
-            "Next.js",
-            "Docker"
+        this.architectureConcepts = [
+            "Clean Architecture",
+            "CQRS",
+            "MediatR",
+            "MVC"
+        ];
+
+        this.tools = [
+            "Git",
+            "GitHub",
+            "Swagger",
+            "Postman"
         ];
 
     }
 
     build() {
 
-        return "Building scalable software one project at a time.";
+        return "Building backend applications and APIs one project at a time.";
 
     }
 
@@ -746,18 +668,17 @@ console.log(me.build());
 
 ---
 
-# 🌱 2026 Goals
+# 🌱 Professional Goals
 
-- 🚀 Build 8–10 production-quality MERN projects
-- 📚 Master Data Structures & Algorithms
-- ⚛️ Become highly proficient in React.js
-- 🟢 Build scalable backend APIs with Node.js & Express.js
-- 🍃 Gain deep expertise in MongoDB
-- 🐳 Learn Docker and deployment workflows
-- ☁️ Explore cloud platforms and DevOps fundamentals
-- 🏗️ Strengthen System Design concepts
-- 🤝 Contribute to Open Source
-- 💼 Secure a Full Stack Software Engineer role
+* 🚀 Grow as a Backend Developer
+* 🟢 Build reliable applications using Node.js and Express.js
+* ⚙️ Strengthen ASP.NET Core backend development skills
+* 🌐 Build and improve REST APIs
+* 🗄️ Improve database development with MongoDB and SQL Server
+* 🏗️ Strengthen understanding of Clean Architecture, CQRS, and MediatR
+* 🐳 Improve Docker and development workflows
+* 🤝 Collaborate on software projects
+* 💼 Secure a Backend or Software Developer role
 
 ---
 
@@ -765,7 +686,7 @@ console.log(me.build());
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**  
+> **"First, solve the problem. Then, write the code."**
 > — John Johnson
 
 </div>
@@ -794,6 +715,6 @@ It motivates me to keep learning and building.
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&color=00D9FF&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together.;Happy+Coding!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&color=00D9FF&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+useful+together.;Happy+Coding!+🚀"/>
 
 </p>
