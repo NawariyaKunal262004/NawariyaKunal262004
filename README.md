@@ -8,9 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Kunal%20Nawariya&fontSize=60&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20ASP.NET%20Core&descAlignY=60&descSize=18"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&color=00D9FF&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;ASP.NET+Core+%7C+SQL+Server;Building+REST+APIs+and+Web+Applications;Always+Learning+and+Building+🚀"/>
-</p>
 
 ---
 
