@@ -251,16 +251,6 @@ I am currently focused on **Node.js, Express.js, MongoDB, ASP.NET Core, SQL Serv
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NawariyaKunal262004&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # ⚡ Development Philosophy
 
 ```javascript
