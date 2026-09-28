@@ -1,13 +1,10 @@
 <!-- ======================================================= -->
-
 <!--              KUNAL NAWARIYA | GITHUB PROFILE            -->
-
 <!-- ======================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Kunal%20Nawariya&fontSize=60&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20ASP.NET%20Core&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Kunal%20Nawariya&fontSize=60&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Entry-Level%20Backend%20Developer%20%7C%20Node.js%20%7C%20ASP.NET%20Core&descAlignY=60&descSize=18"/>
 </p>
-
 
 ---
 
@@ -35,11 +32,11 @@
 
 # 👋 Hi, I'm Kunal Nawariya
 
-### Backend Developer | Node.js | Express.js | ASP.NET Core
+### Entry-Level Backend Developer | Node.js | Express.js | ASP.NET Core
 
-Computer Science student and aspiring Backend Developer with hands-on experience building web applications and REST APIs using **Node.js, Express.js, ASP.NET Core, React.js, MongoDB, and SQL Server**.
+B.Tech AI & Data Science student focused on backend development and REST API development.
 
-I have experience working with backend services, database integration, authentication, API development, frontend-backend integration, and Git-based workflows.
+I mainly work with **Node.js, Express.js, MongoDB, ASP.NET Core, SQL Server, and Entity Framework Core**. I enjoy building practical APIs, working with databases, and learning backend development through projects.
 
 ---
 
@@ -50,32 +47,31 @@ Name:          Kunal Nawariya
 
 Location:      Jaipur, Rajasthan, India
 
-Role:          Backend Developer
+Role:          Entry-Level Backend Developer
 
 Primary Focus:
     - Node.js
     - Express.js
     - REST APIs
 
-Also Experienced With:
+Also Worked With:
     - ASP.NET Core
     - .NET Web API
     - SQL Server
     - Entity Framework Core
-    - React.js
     - MongoDB
+    - React.js
 
-Architecture & Concepts:
-    - Clean Architecture
-    - CQRS
-    - MediatR
-    - MVC
-    - JWT Authentication
+Tools:
+    - Git
+    - GitHub
+    - Postman
+    - Swagger
 
 Open To:
     - Backend Developer Roles
-    - Full-Stack Developer Roles
-    - Entry-Level Software Developer Opportunities
+    - Software Developer Roles
+    - Entry-Level Full-Stack Roles
 
 Motto:
     "Keep Learning. Keep Building."
@@ -85,19 +81,17 @@ Motto:
 
 # 💡 What I'm Working On
 
-💻 Building web applications and backend services
+💻 Building backend applications and REST APIs
 
-🚀 Creating REST APIs using **Node.js & Express.js**
+🚀 Practicing **Node.js & Express.js**
 
-⚙️ Working with **ASP.NET Core and .NET Web API**
+⚙️ Learning and building APIs with **ASP.NET Core**
 
-🗄️ Managing application data using **MongoDB and SQL Server**
+🗄️ Working with **MongoDB and SQL Server**
 
-🔐 Implementing authentication and backend functionality
+🧪 Testing APIs using **Postman and Swagger**
 
-🏗️ Applying concepts such as **Clean Architecture, CQRS, and MediatR**
-
-🧪 Testing and debugging APIs using **Swagger and Postman**
+📚 Improving problem solving and backend development fundamentals
 
 ---
 
@@ -109,19 +103,19 @@ Motto:
 
 📅 **Jun 2026 – Aug 2026**
 
-Worked on full-stack web application features using the MERN stack.
+Worked on web application features using the MERN stack.
 
 ### Responsibilities
 
-✔️ Worked on application features using **MongoDB, Express.js, React.js, and Node.js**
+✔️ Worked with **MongoDB, Express.js, React.js, and Node.js**
 
 ✔️ Built and integrated REST APIs using **Node.js and Express.js**
 
 ✔️ Assisted with frontend and backend integration
 
-✔️ Handled API requests and application data
+✔️ Worked with application data and API requests
 
-✔️ Collaborated with the development team using **Git and GitHub**
+✔️ Used **Git and GitHub** during development
 
 ---
 
@@ -133,19 +127,19 @@ Worked on full-stack web application features using the MERN stack.
 
 📍 Remote, Noida
 
-Worked on backend services and REST APIs for web applications.
+Worked on backend development using the .NET stack.
 
 ### Responsibilities
 
-✔️ Worked with **ASP.NET Core** to develop backend services and REST APIs
+✔️ Worked with **ASP.NET Core and .NET Web API**
 
-✔️ Implemented business logic and database operations
+✔️ Implemented backend logic and REST API endpoints
 
 ✔️ Worked with **SQL Server and Entity Framework Core**
 
-✔️ Collaborated with frontend developers for API integration
+✔️ Integrated APIs with frontend applications
 
-✔️ Tested and debugged APIs using **Swagger and Postman**
+✔️ Tested APIs using **Swagger and Postman**
 
 ✔️ Used **Git and GitHub** for version control
 
@@ -153,18 +147,14 @@ Worked on backend services and REST APIs for web applications.
 
 # 🎯 Career Objective
 
-My goal is to grow as a **Backend Developer** and build reliable web applications and APIs.
+My goal is to grow as a **Backend Developer** by building practical applications and strengthening my understanding of APIs, databases, and server-side development.
 
-I am particularly interested in backend development using **Node.js, Express.js, and ASP.NET Core**, while strengthening my understanding of databases, API design, authentication, and software architecture.
-
-I enjoy working across the development lifecycle and have hands-on experience with both **MERN-based applications** and **ASP.NET Core backend development**.
+I am currently focused on **Node.js, Express.js, MongoDB, ASP.NET Core, SQL Server, and REST API development**.
 
 ---
 
 <!-- ======================================================= -->
-
 <!--                    TECH STACK                           -->
-
 <!-- ======================================================= -->
 
 # 🛠 Tech Stack
@@ -201,12 +191,6 @@ I enjoy working across the development lifecycle and have hands-on experience wi
 
 <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -227,9 +211,9 @@ I enjoy working across the development lifecycle and have hands-on experience wi
 
 <p align="center">
 
-## ☁️ Tools & Platforms
+## 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,windows&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,windows&theme=dark"/>
 
 <br/><br/>
 
@@ -241,16 +225,14 @@ I enjoy working across the development lifecycle and have hands-on experience wi
 
 # 💼 Technologies I've Worked With
 
-| Node.js & MERN     | ASP.NET Core & .NET   |
-| ------------------ | --------------------- |
-| Node.js            | ASP.NET Core          |
-| Express.js         | .NET Web API          |
-| MongoDB            | C#                    |
-| React.js           | SQL Server            |
-| JavaScript (ES6+)  | Entity Framework Core |
-| REST APIs          | Clean Architecture    |
-| JWT Authentication | CQRS                  |
-| Git & GitHub       | MediatR               |
+| Node.js & Express | ASP.NET Core & .NET |
+| ----------------- | ------------------- |
+| Node.js            | ASP.NET Core        |
+| Express.js         | .NET Web API        |
+| MongoDB            | C#                  |
+| JavaScript         | SQL Server           |
+| REST APIs          | Entity Framework Core|
+| Git & GitHub       | Postman & Swagger   |
 
 ---
 
@@ -258,17 +240,16 @@ I enjoy working across the development lifecycle and have hands-on experience wi
 
 <div align="center">
 
-| ⚙ Backend          | 🗄 Databases          | 🏗 Architecture    |
-| ------------------ | --------------------- | ------------------ |
-| Node.js            | MongoDB               | Clean Architecture |
-| Express.js         | SQL Server            | CQRS               |
-| REST APIs          | Entity Framework Core | MediatR            |
-| JWT Authentication | Database Integration  | MVC                |
+| ⚙ Backend | 🗄 Databases | 🧪 Development |
+| --------- | ------------ | --------------- |
+| Node.js | MongoDB | REST APIs |
+| Express.js | SQL Server | API Testing |
+| ASP.NET Core | Entity Framework Core | Git & GitHub |
+| .NET Web API | Database Integration | Backend Fundamentals |
 
 </div>
 
 ---
-
 
 # 📈 Contribution Graph
 
@@ -285,7 +266,7 @@ I enjoy working across the development lifecycle and have hands-on experience wi
 ```javascript
 const kunal = {
 
-    role: "Backend Developer",
+    role: "Entry-Level Backend Developer",
 
     primaryStack: [
         "Node.js",
@@ -293,32 +274,30 @@ const kunal = {
         "MongoDB"
     ],
 
-    backendExperience: [
+    alsoWorkingWith: [
         "ASP.NET Core",
         ".NET Web API",
         "SQL Server",
         "Entity Framework Core"
     ],
 
-    concepts: [
+    focus: [
         "REST APIs",
-        "JWT Authentication",
-        "Clean Architecture",
-        "CQRS",
-        "MediatR"
+        "Database Integration",
+        "API Testing",
+        "Problem Solving"
     ],
 
     tools: [
         "Git",
         "GitHub",
-        "Swagger",
         "Postman",
-        "Docker"
+        "Swagger"
     ],
 
     lifeMotto() {
 
-        return "Keep learning. Keep building. Keep improving.";
+        return "Keep learning. Keep building.";
 
     }
 
@@ -330,16 +309,12 @@ console.log(kunal.lifeMotto());
 ---
 
 <!-- ======================================================= -->
-
 <!--                  FEATURED PROJECTS                      -->
-
 <!-- ======================================================= -->
 
 # 🚀 Featured Projects
 
-> Here are some of the projects that showcase my skills in **Backend Development, REST API Development, Database Integration, and Software Architecture**.
-
----
+> Some of my backend projects built while learning and practicing API development.
 
 <table>
 
@@ -347,20 +322,18 @@ console.log(kunal.lifeMotto());
 
 <td width="50%" valign="top">
 
-## 🏥 Medical Billing & Inventory Management System
+## 💼 Job Portal API
 
-A backend application for managing medicine, billing, and inventory operations.
+A backend API for managing job postings and related application data.
 
 ### 🚀 Highlights
 
-* 💊 Medicine Management
-* 🧾 Billing Management
-* 📦 Inventory Management
-* 🗄️ Database Integration
-* 🌐 REST APIs
-* 🏗️ Clean Architecture
-* ⚙️ CQRS
-* 🔄 MediatR
+* Job posting management
+* Job search and retrieval
+* REST API endpoints
+* SQL Server database
+* Entity Framework Core
+* Input handling
 
 ### 🛠 Tech Stack
 
@@ -370,35 +343,31 @@ A backend application for managing medicine, billing, and inventory operations.
 
 `Entity Framework Core`
 
-`CQRS`
-
-`MediatR`
-
 `REST APIs`
 
 ### What I Worked On
 
-* Developed backend APIs for billing, medicine, and inventory modules.
-* Implemented features for managing medicine stock, billing records, and inventory data.
-* Used Entity Framework Core and SQL Server for database operations.
-* Applied Clean Architecture, CQRS, and MediatR to organize application features and business logic.
+* Built API endpoints for job-related operations.
+* Created models and DTOs for API data.
+* Used Entity Framework Core for database operations.
+* Tested endpoints using Swagger and Postman.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔗 URL Shortener
+## 💰 Expense Tracker API
 
-A backend application that converts long URLs into short and shareable links.
+A backend API for managing personal expenses and expense records.
 
 ### 🚀 Highlights
 
-* 🔗 URL Shortening
-* ↪️ URL Redirection
-* 🌐 REST APIs
-* 🗄️ MongoDB Database
-* ✔️ Input Validation
-* ⚠️ Error Handling
+* Add and update expenses
+* Delete expense records
+* Expense categories
+* Date-based filtering
+* Running balance
+* REST APIs
 
 ### 🛠 Tech Stack
 
@@ -412,10 +381,82 @@ A backend application that converts long URLs into short and shareable links.
 
 ### What I Worked On
 
-* Built REST APIs to create shortened URLs.
-* Developed URL redirection functionality.
-* Used MongoDB to store URL mappings and manage application data.
-* Added basic input validation and error handling for API requests.
+* Built CRUD endpoints for expense records.
+* Stored expense data using MongoDB.
+* Added filtering by category and date.
+* Structured routes, controllers, and models separately.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📦 E-Commerce Inventory Management API
+
+A backend API for managing products and inventory data for an e-commerce application.
+
+### 🚀 Highlights
+
+* Product management
+* Inventory management
+* CRUD operations
+* SQL Server database
+* Entity Framework Core
+* REST APIs
+
+### 🛠 Tech Stack
+
+`ASP.NET Core`
+
+`.NET Web API`
+
+`Entity Framework Core`
+
+`SQL Server`
+
+### What I Worked On
+
+* Built REST endpoints for product and inventory operations.
+* Worked with Entity Framework Core for database access.
+* Used SQL Server to store application data.
+* Tested and debugged API endpoints.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔗 URL Shortener
+
+A backend application that converts long URLs into short and shareable links.
+
+### 🚀 Highlights
+
+* URL shortening
+* URL redirection
+* REST APIs
+* MongoDB database
+* Short ID generation
+* Basic validation
+
+### 🛠 Tech Stack
+
+`Node.js`
+
+`Express.js`
+
+`MongoDB`
+
+`ShortID`
+
+### What I Worked On
+
+* Built an API to create shortened URLs.
+* Implemented redirection from short URLs to original URLs.
+* Stored URL mappings in MongoDB.
+* Used ShortID for generating short identifiers.
 
 </td>
 
@@ -438,17 +479,13 @@ A backend application that converts long URLs into short and shareable links.
 
 🗄️ MongoDB & SQL Server
 
-🔐 JWT Authentication
+🔐 Authentication
 
-🏗️ Clean Architecture
-
-⚡ CQRS & MediatR
-
-🧪 API Testing & Debugging
+🧪 API Testing
 
 📦 Git & GitHub
 
-🐳 Docker
+📚 Problem Solving
 ```
 
 ---
@@ -456,58 +493,39 @@ A backend application that converts long URLs into short and shareable links.
 # 🗺 Development Journey
 
 ```text
-Hands-On Experience ✅
+Backend Development
 
-✔ JavaScript (ES6+)
-
+✔ JavaScript
 ✔ Node.js
-
 ✔ Express.js
-
-✔ React.js
-
-✔ MongoDB
-
 ✔ REST APIs
-
-✔ Git & GitHub
-
+✔ MongoDB
 ✔ ASP.NET Core
-
 ✔ .NET Web API
-
 ✔ C#
-
 ✔ SQL Server
-
 ✔ Entity Framework Core
 
 ──────────────────────────
 
-Architecture & Concepts 🏗
+Currently Improving
 
-✔ MVC
-
-✔ Clean Architecture
-
-✔ CQRS
-
-✔ MediatR
-
-✔ JWT Authentication
+✔ API Design
+✔ Database Integration
+✔ Authentication
+✔ Error Handling
+✔ Problem Solving
+✔ Backend Project Structure
 
 ──────────────────────────
 
-Tools 🔧
+Tools
 
+✔ Git
+✔ GitHub
 ✔ Swagger
-
 ✔ Postman
-
-✔ Docker
-
 ✔ Linux
-
 ✔ Windows
 ```
 
@@ -522,7 +540,7 @@ Tools 🔧
 </a>
 
 <a href="https://www.linkedin.com/in/kunal-nawaria-35591629a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -531,20 +549,13 @@ Tools 🔧
 
 # ⚡ Fun Facts
 
-* 💡 I enjoy building backend systems and solving development problems.
-* 🚀 I like working with REST APIs and web applications.
-* 🗄️ I have experience working with both MongoDB and SQL Server.
-* 🏗️ I am interested in clean and maintainable software architecture.
-* 📚 Every project is an opportunity to learn something new.
+* 💡 I enjoy building backend applications and REST APIs.
+* 🚀 I like learning by building practical projects.
+* 🗄️ I have worked with both MongoDB and SQL Server.
+* 📚 Currently focused on improving backend fundamentals.
 * 🤝 Always open to learning and collaboration.
 
 ---
-
-<!-- ======================================================= -->
-
-<!--                  CONNECT WITH ME                        -->
-
-<!-- ======================================================= -->
 
 # 🤝 Let's Connect
 
@@ -570,12 +581,12 @@ Tools 🔧
 
 <div align="center">
 
-|     ✅ Looking For    |   🚀 Interested In   |
-| :------------------: | :------------------: |
-|   Backend Developer  | REST API Development |
-|  Software Developer  |    Backend Systems   |
-| Full-Stack Developer |   Web Applications   |
-|   Entry-Level Roles  | Software Engineering |
+| Looking For | Interested In |
+| :---------: | :-----------: |
+| Backend Developer | REST API Development |
+| Software Developer | Node.js |
+| Entry-Level Full-Stack | ASP.NET Core |
+| Internship / Full-Time | Web Applications |
 
 </div>
 
@@ -590,7 +601,7 @@ class Developer {
 
         this.name = "Kunal Nawariya";
 
-        this.role = "Backend Developer";
+        this.role = "Entry-Level Backend Developer";
 
         this.primaryTechnologies = [
             "Node.js",
@@ -603,11 +614,11 @@ class Developer {
             "SQL Server"
         ];
 
-        this.architectureConcepts = [
-            "Clean Architecture",
-            "CQRS",
-            "MediatR",
-            "MVC"
+        this.currentFocus = [
+            "REST APIs",
+            "Backend Development",
+            "Database Integration",
+            "Problem Solving"
         ];
 
         this.tools = [
@@ -621,7 +632,7 @@ class Developer {
 
     build() {
 
-        return "Building backend applications and APIs one project at a time.";
+        return "Learning and building backend applications one project at a time.";
 
     }
 
@@ -637,14 +648,13 @@ console.log(me.build());
 # 🌱 Professional Goals
 
 * 🚀 Grow as a Backend Developer
-* 🟢 Build reliable applications using Node.js and Express.js
-* ⚙️ Strengthen ASP.NET Core backend development skills
-* 🌐 Build and improve REST APIs
-* 🗄️ Improve database development with MongoDB and SQL Server
-* 🏗️ Strengthen understanding of Clean Architecture, CQRS, and MediatR
-* 🐳 Improve Docker and development workflows
-* 🤝 Collaborate on software projects
-* 💼 Secure a Backend or Software Developer role
+* 🟢 Build practical applications using Node.js and Express.js
+* ⚙️ Improve ASP.NET Core backend development
+* 🌐 Strengthen REST API development skills
+* 🗄️ Improve database skills with MongoDB and SQL Server
+* 🧪 Get better at testing and debugging APIs
+* 📚 Strengthen problem solving and programming fundamentals
+* 💼 Start my career as a Backend or Software Developer
 
 ---
 
@@ -678,4 +688,3 @@ It motivates me to keep learning and building.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </p>
-
