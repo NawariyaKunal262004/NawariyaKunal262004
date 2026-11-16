@@ -214,14 +214,6 @@ A service that converts long URLs into short, shareable links.
 
 <div align="center">
 
-<a href="https://github.com/NawariyaKunal262004">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NawariyaKunal262004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github"/>
-</a>
-
-<a href="https://github.com/NawariyaKunal262004">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawariyaKunal262004&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
-</a>
-
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NawariyaKunal262004&bg_color=0d1117&color=38bdf8&line=0891b2&point=ffffff&area=true&hide_border=true" />
